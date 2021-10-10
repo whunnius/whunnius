@@ -1,3 +1,4 @@
 - Hello! I am William Hunnius, a Computer Science & Engineering student at the University of Iowa
 - I am looking to create, discuss, and learn all things software :)
-- 
+- I have learned / am learning Python, Java, C++, C, C#, AVR, Firebase, MySQL, SQLite, Haskell, and more!
+- Please reach out to me for any specific reason at whunnius@uiowa.edu
